@@ -15,6 +15,7 @@ public class Main {
             System.out.println("AI Healthcare");
             System.out.println("AI Industry");
             System.out.println("AI in Automation");
+            System.out.println("AI Music");
         }
     }
 }
