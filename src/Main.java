@@ -18,6 +18,7 @@ public class Main {
             System.out.println("AI Music");
             System.out.println("AI Sports");
             System.out.println("AI Guitar");
+            System.out.println("AI IonQ");
         }
     }
 }
