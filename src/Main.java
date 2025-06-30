@@ -20,6 +20,7 @@ public class Main {
             System.out.println("AI Guitar");
             System.out.println("AI IonQ");
             System.out.println("AI Palantir");
+            System.out.println("AI 두산에너지빌스");
         }
     }
 }
