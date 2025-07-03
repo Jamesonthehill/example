@@ -24,6 +24,7 @@ public class Main {
             System.out.println("AI Rocket Labs");
             System.out.println("I can do it");
             System.out.println("I can do it2");
+            System.out.println("I am having pain I can do it.");
         }
     }
 }
