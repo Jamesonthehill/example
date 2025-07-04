@@ -26,6 +26,7 @@ public class Main {
             System.out.println("I can do it2");
             System.out.println("I am having pain I can do it.");
             System.out.println("다 똑같이 하는 노력은, 노력이 아니다.");
+            System.out.println("천장강대임어사인야");
         }
     }
 }
