@@ -29,6 +29,7 @@ public class Main {
             System.out.println("천장강대임어사인야");
             System.out.println("don't suspect yourself.");
             System.out.println("don't suspect yourself. I can do it");
+            System.out.println("I can take a green card and I believe it.");
         }
     }
 }
