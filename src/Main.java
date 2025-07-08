@@ -30,6 +30,7 @@ public class Main {
             System.out.println("don't suspect yourself.");
             System.out.println("don't suspect yourself. I can do it");
             System.out.println("I can take a green card and I believe it.");
+            System.out.println("one day left");
         }
     }
 }
