@@ -32,6 +32,7 @@ public class Main {
             System.out.println("I can take a green card and I believe it.");
             System.out.println("one day left");
             System.out.println("I am green card");
+            System.out.println("I got the green card!");
         }
     }
 }
