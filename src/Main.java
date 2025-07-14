@@ -36,6 +36,7 @@ public class Main {
             System.out.println("god said let there be light!");
             System.out.println("do something.");
             System.out.println("비자인터뷰 과정 끝!");
+            System.out.println("what is next stage?");
         }
     }
 }
