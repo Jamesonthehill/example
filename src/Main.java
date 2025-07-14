@@ -35,6 +35,7 @@ public class Main {
             System.out.println("I got the green card!");
             System.out.println("god said let there be light!");
             System.out.println("do something.");
+            System.out.println("비자인터뷰 과정 끝!");
         }
     }
 }
