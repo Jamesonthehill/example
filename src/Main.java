@@ -38,6 +38,7 @@ public class Main {
             System.out.println("비자인터뷰 과정 끝!");
             System.out.println("what is next stage?");
             System.out.println("·− ···− −−− ·· −··   ··· · −··−");
+            System.out.println("I felt that gut instinct to do ");
         }
     }
 }
