@@ -39,6 +39,7 @@ public class Main {
             System.out.println("what is next stage?");
             System.out.println("·− ···− −−− ·· −··   ··· · −··−");
             System.out.println("I felt that gut instinct to do ");
+            System.out.println("which is things that matter most to you?");
         }
     }
 }
