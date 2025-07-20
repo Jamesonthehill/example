@@ -40,6 +40,8 @@ public class Main {
             System.out.println("·− ···− −−− ·· −··   ··· · −··−");
             System.out.println("I felt that gut instinct to do ");
             System.out.println("which is things that matter most to you?");
+            System.out.println("This is not a joke, it's a warning call ");
+
         }
     }
 }
