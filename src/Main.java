@@ -42,6 +42,7 @@ public class Main {
             System.out.println("which is things that matter most to you?");
             System.out.println("This is not a joke, it's a warning call ");
             System.out.println("Digital Detox");
+            System.out.println("Figma IPO");
         }
     }
 }
