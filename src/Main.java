@@ -45,6 +45,7 @@ public class Main {
             System.out.println("Figma IPO");
             System.out.println("We bought plane ticket.");
             System.out.println("On August 17.");
+            System.out.println("On August 17.");
         }
     }
 }
