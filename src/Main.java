@@ -43,6 +43,8 @@ public class Main {
             System.out.println("This is not a joke, it's a warning call ");
             System.out.println("Digital Detox");
             System.out.println("Figma IPO");
+            System.out.println("Figma IPO111dfsdfs");
+            System.out.println("Figma IPO111dfsdfs");
         }
     }
 }
