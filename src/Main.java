@@ -45,6 +45,7 @@ public class Main {
             System.out.println("Figma IPO");
             System.out.println("Figma IPO111dfsdfs");
             System.out.println("it works");
+            System.out.println("I drop the data mining class.");
         }
     }
 }
