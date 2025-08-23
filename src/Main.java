@@ -49,6 +49,7 @@ public class Main {
             System.out.println("How long have you been here?");
             System.out.println("How do you like it here so far, How long have you been in Charlotte, How long have you been studying on the library.");
             System.out.println("first try of my resume.");
+            System.out.println("first try of my resume.");
         }
     }
 }
