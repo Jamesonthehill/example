@@ -51,6 +51,7 @@ public class Main {
             System.out.println("first try of my resume.");
             System.out.println("I finished my resume.");
             System.out.println("Jupyter notebook is like umbellra to explain code that we made and build.");
+            System.out.println("we got 5 more minute.");
         }
     }
 }
