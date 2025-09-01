@@ -54,6 +54,8 @@ public class Main {
             System.out.println("we got 5 more minute.");
             System.out.println("we got 24more minute.");
             System.out.println("Today is Aug 28");
+            System.out.println("Today is sep 01");
+
         }
     }
 }
