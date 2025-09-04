@@ -56,6 +56,7 @@ public class Main {
             System.out.println("Today is Aug 28");
             System.out.println("DBMS, Machine learning, and AI");
 
+            System.out.println("DBMS, Machine learning, and AI");
         }
     }
 }
