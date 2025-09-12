@@ -58,6 +58,7 @@ public class Main {
 
             System.out.println("DBMS, Machine learning, and AI");
             System.out.println("Let's go to the pycharm");
+            System.out.println("Let's go to the pycharm");
         }
     }
 }
